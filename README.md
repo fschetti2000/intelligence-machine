@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1186620048.svg)](https://doi.org/10.5281/zenodo.22723318)
+
 # :brain: Intelligence Machine 
 
 An educational experience about Artificial Intelligence and Machine Learning.
